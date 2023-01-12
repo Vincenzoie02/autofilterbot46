@@ -118,8 +118,8 @@ python3 bot.py
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Ritesh [Evamaria](https://github.com/ritheshrkrm)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
- - Thanks To All Everyone In This Journey
+ - Thanks To [Trojanz](https://github.com/trojanz
+ - Thanks To All s Journey
 
 ### Note
 
